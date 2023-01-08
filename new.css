@@ -174,6 +174,7 @@
     height: 200px;
     padding:5px;
     margin:20px 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
 }
 .fi-img figcaption{
 margin-left:10px;
@@ -235,6 +236,7 @@ font-size:24px;
     border:none;
     font-size: 20px;
     font-weight: 500;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
 }
 .about-btn:hover{
     background: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
@@ -266,6 +268,7 @@ font-size:24px;
     margin:10px 20px;
     border-radius: 3px;
     border: 1px solid rgba(94, 61, 61, 0.103);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
 }
 .btn{
     width:15%;
@@ -274,6 +277,7 @@ font-size:24px;
     background-color: black;
     color:white;
     border-radius: 2px;
+    box-shadow: rgba(4, 6, 7, 0.708) 0px 6px 12px -2px, rgba(255, 252, 252, 0.3) 0px 3px 7px -3px;
 }
 .map{
     display: flex;
